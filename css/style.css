@@ -1,0 +1,27 @@
+body {
+    background: lightseagreen;
+}
+#carousel {
+  width: 400px;
+  height: 300px;
+  overflow:	hidden;
+  margin: 0 auto;  
+  border: 5px solid lightsalmon;
+  border-radius: 10px;
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+#carousel ul {
+  width: 2000px;
+  padding: 0;
+  margin: 0;
+}
+
+#carousel ul li {  
+  width: 400px;
+  height: 300px;
+  list-style: none;
+  float: left;
+}
